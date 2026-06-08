@@ -561,3 +561,4 @@ public class RecognizeCommand implements Callable<Integer> {
     }
 }
 
+

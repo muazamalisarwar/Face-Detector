@@ -43,3 +43,4 @@ public class ModelReadyHealthIndicator implements HealthIndicator {
     }
 }
 
+

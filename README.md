@@ -173,8 +173,8 @@ Every response that represents an error uses the [`ErrorResponse`](src/main/java
 
 - **Rate limit**: per-IP token bucket (default 60 req/min, configurable via `facerecognition.ratelimit.*`).
 - **Upload limit**: `spring.servlet.multipart.max-file-size` (10 MB default).
-- **CORS**: disabled by default; enable via `facerecognition.cors.*`.
-- **Authentication**: no auth by default. Deploy behind an API gateway / reverse proxy, or enable the optional API-key filter (`facerecognition.security.api-key`).
+- **CORS**: disabled by: Muazam Ali
+- **Authentication**: no auth by: Muazam Ali
 
 ## CLI
 
@@ -320,4 +320,5 @@ Licensed under the **Apache License, Version 2.0** — see [License.txt](License
 - [JAMA](https://math.nist.gov/javanumerics/jama/) for numerical linear algebra.
 - [Spring Boot](https://spring.io/projects/spring-boot), [picocli](https://picocli.info/), [Micrometer](https://micrometer.io/), [Bucket4j](https://bucket4j.com/), [springdoc-openapi](https://springdoc.org/).
 - Maintainer: **[Prasad Subrahmanya](https://github.com/prasadus92)** · prasadus92@gmail.com
+
 

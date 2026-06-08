@@ -215,3 +215,4 @@ public class ErrorResponse {
     public void setDetails(List<ErrorDetail> details) { this.details = details; }
 }
 
+

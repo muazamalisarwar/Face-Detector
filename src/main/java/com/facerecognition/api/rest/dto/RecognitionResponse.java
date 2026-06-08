@@ -261,3 +261,4 @@ public class RecognitionResponse {
     public void setFeatures(double[] features) { this.features = features; }
 }
 
+

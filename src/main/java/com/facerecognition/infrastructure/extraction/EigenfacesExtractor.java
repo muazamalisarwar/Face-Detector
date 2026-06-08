@@ -493,3 +493,4 @@ public class EigenfacesExtractor implements FeatureExtractor, Serializable {
             config.getNumComponents(), trained, trained ? getCumulativeVariance() * 100 : 0);
     }
 }
+

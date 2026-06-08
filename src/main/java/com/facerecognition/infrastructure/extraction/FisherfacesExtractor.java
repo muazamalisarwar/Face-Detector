@@ -477,3 +477,4 @@ public class FisherfacesExtractor implements FeatureExtractor, Serializable {
             numComponents, labelMap.size(), trained);
     }
 }
+
