@@ -421,3 +421,4 @@ public class FaceImage implements Serializable {
             id, width, height, format, getQualityScore());
     }
 }
+

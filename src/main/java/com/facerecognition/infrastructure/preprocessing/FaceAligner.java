@@ -450,3 +450,4 @@ public class FaceAligner {
             targetWidth, targetHeight, histogramEqualization);
     }
 }
+

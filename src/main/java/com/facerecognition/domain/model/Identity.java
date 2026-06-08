@@ -362,3 +362,4 @@ public class Identity implements Serializable {
             id.substring(0, 8), name, samples.size(), active);
     }
 }
+

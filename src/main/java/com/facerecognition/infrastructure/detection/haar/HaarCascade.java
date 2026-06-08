@@ -225,3 +225,4 @@ public final class HaarCascade implements Serializable {
         }
     }
 }
+

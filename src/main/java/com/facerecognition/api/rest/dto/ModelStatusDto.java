@@ -190,3 +190,4 @@ public class ModelStatusDto {
     public Long getModelSizeBytes() { return modelSizeBytes; }
     public void setModelSizeBytes(Long modelSizeBytes) { this.modelSizeBytes = modelSizeBytes; }
 }
+

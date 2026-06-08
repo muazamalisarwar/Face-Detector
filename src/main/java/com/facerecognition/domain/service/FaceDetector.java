@@ -140,3 +140,4 @@ public interface FaceDetector {
         public DetectionConfig setScaleFactor(double s) { this.scaleFactor = s; return this; }
     }
 }
+

@@ -505,3 +505,4 @@ class IdentityTest {
         return new FeatureVector(features, "test", 1);
     }
 }
+

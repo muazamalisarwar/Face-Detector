@@ -191,3 +191,4 @@ public class EnrollmentRequest {
         this.minQualityScore = minQualityScore;
     }
 }
+

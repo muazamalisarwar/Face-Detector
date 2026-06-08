@@ -600,3 +600,4 @@ class FaceImageTest {
         return image;
     }
 }
+

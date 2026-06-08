@@ -699,3 +699,4 @@ public class BenchmarkCommand implements Callable<Integer> {
         int[][] confusionMatrix;
     }
 }
+

@@ -190,3 +190,4 @@ facerecognition:
 logging:
   level:
     com.facerecognition: DEBUG
+

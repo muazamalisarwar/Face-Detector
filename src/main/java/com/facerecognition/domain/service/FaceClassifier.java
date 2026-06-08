@@ -171,3 +171,4 @@ public interface FaceClassifier {
         public ClassifierConfig setUseAverageFeatures(boolean u) { this.useAverageFeatures = u; return this; }
     }
 }
+

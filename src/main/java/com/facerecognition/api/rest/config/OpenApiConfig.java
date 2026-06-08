@@ -162,3 +162,4 @@ public class OpenApiConfig {
                 .addList("apiKeyAuth");
     }
 }
+

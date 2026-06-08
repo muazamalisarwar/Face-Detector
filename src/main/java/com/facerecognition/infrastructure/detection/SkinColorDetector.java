@@ -910,3 +910,4 @@ public class SkinColorDetector implements FaceDetector, Serializable {
         int centroidY;
     }
 }
+

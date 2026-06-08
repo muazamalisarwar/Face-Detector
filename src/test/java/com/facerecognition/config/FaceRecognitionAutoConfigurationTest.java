@@ -179,3 +179,4 @@ class FaceRecognitionAutoConfigurationTest {
     private static void suppressChecked() throws IOException {
     }
 }
+

@@ -578,3 +578,4 @@ public class FaceRecognitionService {
                 extractor.getAlgorithmName(), identities.size(), trained);
     }
 }
+

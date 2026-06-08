@@ -32,3 +32,4 @@ Thanks for using this project. Here is where to go for different kinds of help:
 ## Commercial / enterprise support
 
 This is a permissively-licensed open-source project maintained in my spare time — I can't commit to SLAs. If you're building something serious on top of it and need prioritised help, reach out at `prasadus92@gmail.com` and we can talk.
+

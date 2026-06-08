@@ -126,3 +126,4 @@ class HaarCascadeLoaderTest {
                 .isInstanceOf(IOException.class);
     }
 }
+

@@ -10,3 +10,4 @@
     <!-- DTOs are verbose by design; relax member-name rules -->
     <suppress checks="LineLength" files="[\\/]dto[\\/]"/>
 </suppressions>
+

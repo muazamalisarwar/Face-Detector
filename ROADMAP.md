@@ -84,3 +84,4 @@ Goals: make every claim in the README true, close the biggest correctness and ob
 - **Hard tickets**: ONNX + deep-learning pipeline, vector store integration.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for setup and coding conventions.
+

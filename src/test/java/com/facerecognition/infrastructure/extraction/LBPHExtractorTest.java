@@ -495,3 +495,4 @@ class LBPHExtractorTest {
         return FaceImage.fromBufferedImage(image);
     }
 }
+

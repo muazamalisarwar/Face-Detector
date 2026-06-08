@@ -131,3 +131,4 @@ public interface FeatureExtractor {
         public ExtractorConfig setImageHeight(int h) { this.imageHeight = h; return this; }
     }
 }
+

@@ -503,3 +503,4 @@ public class GlobalExceptionHandler {
         return ErrorResponse.ErrorCodes.VALIDATION_ERROR;
     }
 }
+

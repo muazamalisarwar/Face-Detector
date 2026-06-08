@@ -269,3 +269,4 @@ public class FaceRecognitionProperties {
         public void setApiKeyHeader(String apiKeyHeader) { this.apiKeyHeader = apiKeyHeader; }
     }
 }
+

@@ -332,3 +332,4 @@ public class KNNClassifier implements FaceClassifier, Serializable {
             config.getK(), distanceMetric, enrolledIdentities.size());
     }
 }
+

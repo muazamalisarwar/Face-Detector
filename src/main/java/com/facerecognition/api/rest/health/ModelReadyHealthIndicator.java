@@ -42,3 +42,4 @@ public class ModelReadyHealthIndicator implements HealthIndicator {
                 .build();
     }
 }
+

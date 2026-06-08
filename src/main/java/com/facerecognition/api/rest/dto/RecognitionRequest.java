@@ -134,3 +134,4 @@ public class RecognitionRequest {
         this.includeFaceRegion = includeFaceRegion;
     }
 }
+

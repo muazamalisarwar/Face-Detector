@@ -565,3 +565,4 @@ class KNNClassifierTest {
         return new FeatureVector(features, "test", 1);
     }
 }
+

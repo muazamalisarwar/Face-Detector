@@ -66,3 +66,4 @@ class ModelReadyHealthIndicatorTest {
         assertThat(health.getDetails().get("reason")).isEqualTo("Identities enrolled but model not yet trained");
     }
 }
+

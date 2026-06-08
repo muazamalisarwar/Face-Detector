@@ -36,3 +36,4 @@ Fixes #<!-- issue number -->
 - [ ] Javadoc updated for any changed public APIs
 - [ ] No new warnings from Checkstyle / SpotBugs
 - [ ] Coverage floor still met
+

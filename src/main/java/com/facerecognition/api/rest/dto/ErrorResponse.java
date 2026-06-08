@@ -214,3 +214,4 @@ public class ErrorResponse {
     public List<ErrorDetail> getDetails() { return details; }
     public void setDetails(List<ErrorDetail> details) { this.details = details; }
 }
+

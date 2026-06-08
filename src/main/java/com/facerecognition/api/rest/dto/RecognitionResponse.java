@@ -260,3 +260,4 @@ public class RecognitionResponse {
     public double[] getFeatures() { return features; }
     public void setFeatures(double[] features) { this.features = features; }
 }
+

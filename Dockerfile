@@ -57,3 +57,4 @@ HEALTHCHECK --interval=30s --timeout=5s --start-period=45s --retries=3 \
 
 ENTRYPOINT ["/sbin/tini", "--"]
 CMD ["sh", "-c", "exec java $JAVA_OPTS -jar /app/app.jar"]
+

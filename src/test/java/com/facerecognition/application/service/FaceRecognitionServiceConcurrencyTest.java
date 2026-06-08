@@ -138,3 +138,4 @@ class FaceRecognitionServiceConcurrencyTest {
         return FaceImage.fromBufferedImage(img);
     }
 }
+

@@ -695,3 +695,4 @@ class FaceRecognitionServiceTest {
         return new FeatureVector(features, "test", 1);
     }
 }
+

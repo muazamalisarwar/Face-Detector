@@ -277,3 +277,4 @@ public class FaceRegion implements Serializable {
             x, y, width, height, confidence);
     }
 }
+

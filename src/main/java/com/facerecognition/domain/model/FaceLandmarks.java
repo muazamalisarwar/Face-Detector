@@ -303,3 +303,4 @@ public class FaceLandmarks implements Serializable {
             type, points.length, getFaceRotationAngle());
     }
 }
+

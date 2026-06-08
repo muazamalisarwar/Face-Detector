@@ -560,3 +560,4 @@ public class RecognizeCommand implements Callable<Integer> {
         long processingTime;
     }
 }
+

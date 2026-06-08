@@ -48,3 +48,4 @@ public class FaceRecognitionApplication {
         SpringApplication.run(FaceRecognitionApplication.class, args);
     }
 }
+

@@ -506,3 +506,4 @@ public final class HaarCascadeFaceDetector implements FaceDetector, Serializable
         }
     }
 }
+

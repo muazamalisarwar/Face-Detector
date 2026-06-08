@@ -916,3 +916,4 @@ public class ReportGenerator {
         saveCsv(results, outputDir.resolve(baseName + ".csv"));
     }
 }
+

@@ -356,3 +356,4 @@ public class LBPHExtractor implements FeatureExtractor, Serializable {
             gridX, gridY, radius, neighbors, getFeatureDimension());
     }
 }
+
