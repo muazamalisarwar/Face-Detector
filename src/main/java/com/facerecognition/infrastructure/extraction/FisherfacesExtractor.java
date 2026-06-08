@@ -478,3 +478,4 @@ public class FisherfacesExtractor implements FeatureExtractor, Serializable {
     }
 }
 
+

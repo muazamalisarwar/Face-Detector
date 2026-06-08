@@ -59,3 +59,4 @@ ENTRYPOINT ["/sbin/tini", "--"]
 CMD ["sh", "-c", "exec java $JAVA_OPTS -jar /app/app.jar"]
 
 
+

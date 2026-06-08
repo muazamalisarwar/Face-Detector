@@ -55,3 +55,4 @@ Out of scope:
 - Pin and regularly update the base image if you build your own variant of the Dockerfile.
 - Store serialized `TrainedModel` files in a trusted location — the persistence layer uses Java serialization, so never import a model you did not generate yourself.
 
+
